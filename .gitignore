@@ -1,0 +1,7 @@
+# --- Archivos basura de Java y editores ---
+*.class
+bin/
+.vscode/
+.settings/
+.project
+.classpath
