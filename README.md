@@ -1,18 +1,19 @@
-## Getting Started
+# Portafolio de Proyectos - Módulo 1 (Java)
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este repositorio contiene los trabajos prácticos realizados durante el Módulo 1 del programa DEV SENIOR CODE.
 
-## Folder Structure
+## 📂 Contenido del Repositorio
 
-The workspace contains two folders by default, where:
+* **[Proyecto 1: Registro de Estudiantes](./ProyectoFinal):** Gestión de nombres y promedios.
+* **[Proyecto 2: Gestión de Inventario](./ProyectoFinal2):** Administración de productos con validaciones y formato de moneda.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## 🛠️ Tecnologías Utilizadas
+* Java JDK 17+
+* Git & GitHub
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+---
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+### 🙏 Gratitud
+"Todo lo que hagáis, hacedlo de corazón, como para el Señor y no para los hombres." (Colosenses 3:23). 
 
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Agradezco a Dios por la sabiduría y la perseverancia para completar esta etapa de mi formación técnica. Cada línea de código es un paso más en este camino de crecimiento que Él me permite recorrer.
